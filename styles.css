@@ -1,0 +1,28 @@
+h1 {
+  border: solid 5px white;
+  color:white;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-family: 'Orbitron', sans-serif;
+}
+Body {
+  background: black;
+
+}
+img {
+  height: 200px;
+  width: 150px;
+object-fit: cover;
+padding-top: 20px;
+padding-bottom: 20px;
+padding-left: 20px;
+padding-right: 20px;
+}
+div {
+  display: flex;
+  justify-content: space-around;
+}
+section {
+  border: solid 5px white
+}
